@@ -3,7 +3,7 @@
 This is tutorial repository to experiment how to [Load Data](https://kit.svelte.dev/docs/load) in svelte-kit 1.0.
 
 
-```
+
 
 ## Developing
 
